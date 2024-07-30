@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Sugatraj/Weather-Application/static/css/main.c9c623d4.css",
-    "main.js": "/Sugatraj/Weather-Application/static/js/main.02492b5b.js",
-    "static/media/weather-bg.jpg": "/Sugatraj/Weather-Application/static/media/weather-bg.92da96764fac6f97548d.jpg",
-    "index.html": "/Sugatraj/Weather-Application/index.html",
-    "main.c9c623d4.css.map": "/Sugatraj/Weather-Application/static/css/main.c9c623d4.css.map",
-    "main.02492b5b.js.map": "/Sugatraj/Weather-Application/static/js/main.02492b5b.js.map"
+    "main.css": "/Weather-Application/static/css/main.188d0961.css",
+    "main.js": "/Weather-Application/static/js/main.33d29b82.js",
+    "static/media/weather-bg.jpg": "/Weather-Application/static/media/weather-bg.92da96764fac6f97548d.jpg",
+    "index.html": "/Weather-Application/index.html",
+    "main.188d0961.css.map": "/Weather-Application/static/css/main.188d0961.css.map",
+    "main.33d29b82.js.map": "/Weather-Application/static/js/main.33d29b82.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9c623d4.css",
-    "static/js/main.02492b5b.js"
+    "static/css/main.188d0961.css",
+    "static/js/main.33d29b82.js"
   ]
 }
