@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sugatraj/Weather-Application/static/css/main.c9c623d4.css",
+    "main.js": "/Sugatraj/Weather-Application/static/js/main.02492b5b.js",
+    "static/media/weather-bg.jpg": "/Sugatraj/Weather-Application/static/media/weather-bg.92da96764fac6f97548d.jpg",
+    "index.html": "/Sugatraj/Weather-Application/index.html",
+    "main.c9c623d4.css.map": "/Sugatraj/Weather-Application/static/css/main.c9c623d4.css.map",
+    "main.02492b5b.js.map": "/Sugatraj/Weather-Application/static/js/main.02492b5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9c623d4.css",
+    "static/js/main.02492b5b.js"
+  ]
+}
